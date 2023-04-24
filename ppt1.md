@@ -58,7 +58,7 @@ while n < 10:
 
 ### 参数选项
 
-|      参数       |                             描述                             |  默认   |
+|      参数       |                             描述                             | <div style="width:100px">默认</div> |
 | :-------------: | :----------------------------------------------------------: | :-------: |
 |    controls     |                    是否在右下角展示控制条                    |   true    |
 |    progress     |                     是否显示演示的进度条                     |   true    |
@@ -67,7 +67,7 @@ while n < 10:
 
 <!--v-->
 
-|      参数       |                             描述                             |  默认   |
+|      参数       |                             描述                             | <div style="width:100px">默认</div> |
 | :-------------: | :----------------------------------------------------------: | :-------: |
 |    keyboard     |                   是否启用键盘快捷键来导航                   |   true    |
 |    overview     |  是否启用幻灯片的概览模式，可使用"Esc"或"o"键来切换概览模式  |   true    |
@@ -78,13 +78,13 @@ while n < 10:
 
 <!--v-->
 
-|      参数       |                             <div style="width:500px">描述</div>                             |  默认   |
+|      参数       |                             <div style="width:450px">描述</div>                             |  默认   |
 | :-------------: | :----------------------------------------------------------: | :-------: |
-|    fragments    |                     <div style="width:500px">全局开启和关闭碎片。</div>                     |   true    |
-|    autoSlide    | <div style="width:500px">两个幻灯片之间自动切换的时间间隔（毫秒），当设置成 0 的时候则禁止自动切换</div> |     0     |
-|   transition    | <div style="width:500px">切换过渡效果有none/fade/slide /convex/concave/zoom</div> | 'default' |
-| transitionSpeed |   <div style="width:500px">过渡速度，default/fast/slow</div> | 'default' |
-|   mouseWheel    |               <div style="width:500px">鼠标滚轮切换幻灯片</div>               |   true    |
+|    fragments    |                     <div style="width:450px">全局开启和关闭碎片。</div>                     |   true    |
+|    autoSlide    | <div style="width:450px">幻灯片自动切换时间间隔（毫秒）</div> |     0     |
+|   transition    | <div style="width:450px">切换过渡效果有none/fade/slide /convex/concave/zoom</div> | 'default' |
+| transitionSpeed | <div style="width:450px">过渡速度，default/fast/slow</div> | 'default' |
+|   mouseWheel    |               <div style="width:450px">鼠标滚轮切换幻灯片</div>               |   true    |
 
 <!--s-->
 
