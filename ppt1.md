@@ -78,13 +78,13 @@ while n < 10:
 
 <!--v-->
 
-|      参数       |                             描述                             |  默认   |
+|      参数       |                             <div style="width:500px">描述</div>                             |  默认   |
 | :-------------: | :----------------------------------------------------------: | :-------: |
-|    fragments    |                     全局开启和关闭碎片。                     |   true    |
-|    autoSlide    | 两个幻灯片之间自动切换的时间间隔（毫秒），当设置成 0 的时候则禁止自动切换 |     0     |
-|   transition    |     切换过渡效果，有none/fade/slide/convex/concave/zoom      | 'default' |
-| transitionSpeed |                 过渡速度，default/fast/slow                  | 'default' |
-|   mouseWheel    |               是否启用通过鼠标滚轮来切换幻灯片               |   true    |
+|    fragments    |                     <div style="width:500px">全局开启和关闭碎片。</div>                     |   true    |
+|    autoSlide    | <div style="width:500px">两个幻灯片之间自动切换的时间间隔（毫秒），当设置成 0 的时候则禁止自动切换</div> |     0     |
+|   transition    | <div style="width:500px">切换过渡效果有none/fade/slide /convex/concave/zoom</div> | 'default' |
+| transitionSpeed |   <div style="width:500px">过渡速度，default/fast/slow</div> | 'default' |
+|   mouseWheel    |               <div style="width:500px">鼠标滚轮切换幻灯片</div>               |   true    |
 
 <!--s-->
 
